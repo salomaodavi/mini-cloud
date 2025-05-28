@@ -31,14 +31,12 @@ Projeto simples em Go que simula um serviço básico de armazenamento em nuvem (
 Entre na pasta do projeto:
 
 bash
-Copiar
-Editar
+
 cd mini-cloud
 Rode o servidor:
 
 bash
-Copiar
-Editar
+
 go run main.go
 Abra o navegador e acesse:
 
