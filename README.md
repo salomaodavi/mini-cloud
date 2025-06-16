@@ -65,5 +65,5 @@ yaml
 
 ```bash
 git add README.md
-git commit -m "Adiciona README com badges, links e contato"
+git commit -m 
 git push
